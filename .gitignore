@@ -1,0 +1,7 @@
+/target
+.idea
+target
+/project/project/target
+wikipedia.dat
+stackoverflow.csv
+.DS_Store

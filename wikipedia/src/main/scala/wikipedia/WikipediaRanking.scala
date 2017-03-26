@@ -95,6 +95,8 @@ object WikipediaRanking {
     /* Output the speed of each ranking */
     println(timing)
     sc.stop()
+
+    println("The rankings" + langsRanked3)
   }
 
   val timing = new StringBuffer
